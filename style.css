@@ -22,8 +22,8 @@ section{
     padding: 10px 40px;
 }
 .half-width{
-    width: 50%;
-    padding-left: 10%;
+    width: 200%;
+    
 }
 .half-width img{
     width: 30%;
@@ -31,5 +31,41 @@ section{
 .back{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+
 }
+
+.notun{
+   padding-bottom: 5%;
+   padding-top: 5%;
+   padding-right: 40%;
+   padding-left: 10%;
+   background-image: url(images/dream-bg.png);
+   background-repeat: no-repeat;
+   margin-bottom: 200%;
+   background-image: url(images/exp-bg.png);
+   
+
+
+   
+   
+    
+}
+.submit-button{
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 2px;
+}
+.back{
+    padding-left: 20%;
+}
+.size{
+   image-resolution: 5px;
+}
+span{
+    color: yellowgreen;
+}
+
 
